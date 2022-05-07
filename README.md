@@ -1,4 +1,4 @@
-<p align="center"><img width="282px" height="auto" src="https://user-images.githubusercontent.com/99600185/167239870-0597d633-90d5-41af-bbd3-c681c525bb4a.png" height="192px"/></p>
+<p align="center"><img width="452px" height="auto" src="https://user-images.githubusercontent.com/99600185/167240241-13862dfd-2ba6-43f9-8ce3-98d95db4fe83.png" height="220px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm FAHAD</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Saudi Arabia.</h3>
@@ -6,6 +6,7 @@
 
 ## 🙋‍♂️ About Me
  
+
 
  
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
