@@ -9,7 +9,13 @@
 
 
  
-- 🌱 I’m currently learning **Data Structures and Algorithms.** [Python]
+<h3>🌱 I’m currently Doing:</h3>
+<p align="left" > 1- learning *Python </p>
+<p align="left" > 2- Php Lib:  to integrate with Xturbox API's </p>
+<p align="left" > 3- Wordpress: Theme and Plugin </p>
+<p align="left" > 4- Opencart: Full Project development </p>
+<p align="left" > 5- Laravel: Api - SAAS </p>
+
 
 - 📫 How to reach me **admin@codlatn.com**
  
@@ -19,7 +25,6 @@
 
 <p align="left"> 
  
-
 <a href="https://www.php.net" target="_blank"> <img width="50px" src="https://user-images.githubusercontent.com/99600185/167240396-13e55b8c-9e83-46c2-a12e-aa81dde04d96.png"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img width="50px" src="https://img.icons8.com/fluency/452/laravel.png"/> </a>
 <a href="https://codeigniter.org/" target="_blank"> <img width="50px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png"/> </a>
