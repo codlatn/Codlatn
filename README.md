@@ -1,15 +1,12 @@
-<p align="center"><img width="452px" height="auto" src="https://user-images.githubusercontent.com/99600185/167240241-13862dfd-2ba6-43f9-8ce3-98d95db4fe83.png" height="220px"/></p>
+<p align="center"><img width="247px" height="auto" src="https://user-images.githubusercontent.com/99600185/167309283-d912a294-5b94-4fe2-9d04-ba87987ca77b.png" height="223px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm FAHAD</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Saudi Arabia.</h3>
 
 
 ## 🙋‍♂️ About Me
- 
 
-
- 
-<h3>🌱 I’m currently Doing:</h3>
+<h3>🌱 I’m currently doing...:</h3>
 <p align="left" > 1- learning *Python </p>
 <p align="left" > 2- Php Lib:  to integrate with Xturbox API's </p>
 <p align="left" > 3- Wordpress: Theme and Plugin </p>
