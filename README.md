@@ -1,4 +1,4 @@
-<p align="center"><img width="247px" height="auto" src="https://user-images.githubusercontent.com/99600185/167309283-d912a294-5b94-4fe2-9d04-ba87987ca77b.png" height="223px"/></p>
+<p align="center"><img width="247px" height="auto" src="https://i.ibb.co/zJZVrXg/Codlatn-Logo.jpg" height="200px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm FAHAD</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Saudi Arabia.</h3>
